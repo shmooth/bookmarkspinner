@@ -1,6 +1,6 @@
 # BookmarkSpinner
 
-Click the extension icon or hit CTRL+b to go to your next bookmark.
+Click the extension icon or hit `CTRL+b` to go to your next bookmark.
 
 
 To build:
