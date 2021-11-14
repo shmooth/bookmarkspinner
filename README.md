@@ -17,11 +17,11 @@ mkdir ext
 
 
 ### 3. Go to chrome extensions url and 'Load Unpacked'
-go to chrome://extensions/
-Load Unpacked button
-navigate to your 'ext' dir and 'Open'
-use the 'refresh' button as necessary to reload your files
-click on the 'Inspect views background page (inactive)' as necessary to see log of ext activity
+* go to chrome://extensions/
+* Load Unpacked button
+* navigate to your 'ext' dir and 'Open'
+* use the 'refresh' button as necessary to reload your files
+* click on the 'Inspect views background page (inactive)' as necessary to see log of ext activity
 
 
 
