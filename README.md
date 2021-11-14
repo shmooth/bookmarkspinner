@@ -6,12 +6,14 @@ Click the extension icon or hit CTRL+b to go to your next bookmark.
 To build:
 
 ### 1. create a directory for the extension, prob in your dev dir
+```
 cd ~
 cd dev
 mkdir ext
+```
 
 ### 2. git clone this dir
-git clone https://github.com/shmooth/bookmarkspinner.git
+`git clone https://github.com/shmooth/bookmarkspinner.git`
 
 
 ### 3. Go to chrome extensions url and 'Load Unpacked'
@@ -23,10 +25,11 @@ click on the 'Inspect views background page (inactive)' as necessary to see log 
 
 
 
-### to create distributable zip of the extension, zip from the 'dev' directory
+### To create distributable zip of the extension, zip from the 'dev' directory
+```
 cd ~/dev
 zip -r myextension.zip ext/
-
+```
 
 
 
