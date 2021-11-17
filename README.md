@@ -2,6 +2,9 @@
 
 Click the extension icon or hit `CTRL+b` to go to your next bookmark.
 
+## Chrome Web Store
+Install the extension from [the Chrome Web Store here](https://chrome.google.com/webstore/detail/bookmark-spinner/pblandhidcnenclfbheipfdajajeghmd).
+
 
 To build:
 
